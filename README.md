@@ -63,33 +63,19 @@ Add additional notes about how to deploy this on a live system
 * [TestComplete](https://support.smartbear.com/testcomplete/docs/) - TestComplete is an automated testing environment for a wide range of desktop, web and mobile application types and technologies.
 
 ## Contributing
-<<<<<<< HEAD
 
-```
 Please read [CONTRIBUTING.md](put ours here) for details on our code of conduct, and the process for submitting pull requests to us.
-```
-=======
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
->>>>>>> f4b226ec4468aab2f3b86ca8d710fe6e52401439
+
 
 ## Versioning
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We use [GITHUB](website here) for versioning. For the versions available, see the [tags on this repository](Hyperlink to repository tags). 
 
 ## Authors
-<<<<<<< HEAD
-```
-* **Kevin Johnson** - *Initial work* - [AutomationWizzards]()
 
-See also the list of [contributors](List of contributors) who participated in this project.
-```
-=======
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
->>>>>>> f4b226ec4468aab2f3b86ca8d710fe6e52401439
+* **Kevin Johnson** - *Initial work* - [AutomationWizzards](http://automationwizzards.com/)
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the ---Add info here---
 
 ## Acknowledgments
 
