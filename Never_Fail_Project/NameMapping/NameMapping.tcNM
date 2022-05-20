@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{78B0D208-8B18-47EE-BACC-9CA8D63EA0E3}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="TestExecute" Key="{3AE89E80-3678-4D5E-99EF-2E6291C337B7}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="TestExecute" />
+							</Property>
+						</Properties>
+					</Child>
+					<Child Name="TestComplete" Key="{A92DAA2B-65EC-4E31-9530-841A7DDE7D88}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="TestComplete" />
+							</Property>
+						</Properties>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="TestExecute" Owner="{3AE89E80-3678-4D5E-99EF-2E6291C337B7}" />
+		<Child Name="TestComplete" Owner="{A92DAA2B-65EC-4E31-9530-841A7DDE7D88}" />
+	</LogicalNodes>
+</Root>

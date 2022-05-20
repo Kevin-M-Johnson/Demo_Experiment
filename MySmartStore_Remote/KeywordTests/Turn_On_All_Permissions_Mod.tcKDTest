@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="15.0">
+	<TestData Description="" Key="{D589CF8D-7F59-45F2-9AAF-9C068A844528}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps>
+					<Bitmap Name="Aliases.browser.pageRolePermissions" Data="61717A697000000001000000360400007801CD935F48935118C67FD96CB0749F5337BD089C905484906456E49FADD852A88DA68ED9160A6B9222B9968D2E2208528A6241D308648A34C8CA30096D4917FD61AE1422B0282846E6B28B4A4244BB89F599DBD5747457EFCBF3BEE770F83DE71C3867EFC112097FA244AC9B4565C4B406B5381223B6BE3C59AE51FECF148AAE222FEE8AA9F3AF4FA9D4F859BBCD8744FB9054438875A620D2EA20A915FDA834BEA43ECAAA41910B90E67887E264844CD714196D11642D33A4B57E426A1F27D71258D54352114070865176CC92E3FC48FABEFB6CD075915FDB8BBC7D16C5E5EF480F3F59914F290F906E7B45E6851F088E0FAC374DC281D764EDEAA3667B3986238DE4DC5E4476364C4AD5488287DCF818C59988A819D8FA88C21D6DB88CBBC9370F6335DAB8A28172CF0079A3BF101A9E26F08ABA31723BE790DB5E22940D91ADBF8755ABE356A39A1E7B01D70F65616F3D4AE9FB28AAE660022F5842E479C57B777C65D3A52FD4DE5960A3E901D3FD7A26AF9531704C4DCB090795133F119AC612F8A557B8E4A1F67C4375FA3305AE6964FA17584C76E69F99B97BAA10E70D1F7B6E4EADC8C6F9EC8B0B28DA1791D484D8B2D34BBDD9CADC78337E7729D5C36F283E3F9194AFACF7B2DFDE0DBAB73C1FED263ADF4378E438BD4D4534B83DABB2F1FDE3BFC95D67A1CF6D60F09C01BF4B9B948B33FFA2FF0680E9AFF9" />
+					<Bitmap Name="Aliases.browser.pageRolePermissions.panelMaincontent" Data="61717A697000000001000000360400007801CD935F48935118C67FD96CB0749F5337BD089C905484906456E49FADD852A88DA68ED9160A6B9222B9968D2E2208528A6241D308648A34C8CA30096D4917FD61AE1422B0282846E6B28B4A4244BB89F599DBD5747457EFCBF3BEE770F83DE71C3867EFC112097FA244AC9B4565C4B406B5381223B6BE3C59AE51FECF148AAE222FEE8AA9F3AF4FA9D4F859BBCD8744FB9054438875A620D2EA20A915FDA834BEA43ECAAA41910B90E67887E264844CD714196D11642D33A4B57E426A1F27D71258D54352114070865176CC92E3FC48FABEFB6CD075915FDB8BBC7D16C5E5EF480F3F59914F290F906E7B45E6851F088E0FAC374DC281D764EDEAA3667B3986238DE4DC5E4476364C4AD5488287DCF818C59988A819D8FA88C21D6DB88CBBC9370F6335DAB8A28172CF0079A3BF101A9E26F08ABA31723BE790DB5E22940D91ADBF8755ABE356A39A1E7B01D70F65616F3D4AE9FB28AAE660022F5842E479C57B777C65D3A52FD4DE5960A3E901D3FD7A26AF9531704C4DCB090795133F119AC612F8A557B8E4A1F67C4375FA3305AE6964FA17584C76E69F99B97BAA10E70D1F7B6E4EADC8C6F9EC8B0B28DA1791D484D8B2D34BBDD9CADC78337E7729D5C36F283E3F9194AFACF7B2DFDE0DBAB73C1FED263ADF4378E438BD4D4534B83DABB2F1FDE3BFC95D67A1CF6D60F09C01BF4B9B948B33FFA2FF0680E9AFF9" />
+					<Bitmap Name="Aliases.browser.pageRolePermissions.panelMaincontent.panelContainerFluid" Data="61717A697000000001000000360400007801CD935F48935118C67FD96CB0749F5337BD089C905484906456E49FADD852A88DA68ED9160A6B9222B9968D2E2208528A6241D308648A34C8CA30096D4917FD61AE1422B0282846E6B28B4A4244BB89F599DBD5747457EFCBF3BEE770F83DE71C3867EFC112097FA244AC9B4565C4B406B5381223B6BE3C59AE51FECF148AAE222FEE8AA9F3AF4FA9D4F859BBCD8744FB9054438875A620D2EA20A915FDA834BEA43ECAAA41910B90E67887E264844CD714196D11642D33A4B57E426A1F27D71258D54352114070865176CC92E3FC48FABEFB6CD075915FDB8BBC7D16C5E5EF480F3F59914F290F906E7B45E6851F088E0FAC374DC281D764EDEAA3667B3986238DE4DC5E4476364C4AD5488287DCF818C59988A819D8FA88C21D6DB88CBBC9370F6335DAB8A28172CF0079A3BF101A9E26F08ABA31723BE790DB5E22940D91ADBF8755ABE356A39A1E7B01D70F65616F3D4AE9FB28AAE660022F5842E479C57B777C65D3A52FD4DE5960A3E901D3FD7A26AF9531704C4DCB090795133F119AC612F8A557B8E4A1F67C4375FA3305AE6964FA17584C76E69F99B97BAA10E70D1F7B6E4EADC8C6F9EC8B0B28DA1791D484D8B2D34BBDD9CADC78337E7729D5C36F283E3F9194AFACF7B2DFDE0DBAB73C1FED263ADF4378E438BD4D4534B83DABB2F1FDE3BFC95D67A1CF6D60F09C01BF4B9B948B33FFA2FF0680E9AFF9" />
+					<Bitmap Name="Aliases.browser.pageRolePermissions.panelMaincontent.panelContainerFluid.panelMain" Data="61717A697000000001000000360400007801CD935F48935118C67FD96CB0749F5337BD089C905484906456E49FADD852A88DA68ED9160A6B9222B9968D2E2208528A6241D308648A34C8CA30096D4917FD61AE1422B0282846E6B28B4A4244BB89F599DBD5747457EFCBF3BEE770F83DE71C3867EFC112097FA244AC9B4565C4B406B5381223B6BE3C59AE51FECF148AAE222FEE8AA9F3AF4FA9D4F859BBCD8744FB9054438875A620D2EA20A915FDA834BEA43ECAAA41910B90E67887E264844CD714196D11642D33A4B57E426A1F27D71258D54352114070865176CC92E3FC48FABEFB6CD075915FDB8BBC7D16C5E5EF480F3F59914F290F906E7B45E6851F088E0FAC374DC281D764EDEAA3667B3986238DE4DC5E4476364C4AD5488287DCF818C59988A819D8FA88C21D6DB88CBBC9370F6335DAB8A28172CF0079A3BF101A9E26F08ABA31723BE790DB5E22940D91ADBF8755ABE356A39A1E7B01D70F65616F3D4AE9FB28AAE660022F5842E479C57B777C65D3A52FD4DE5960A3E901D3FD7A26AF9531704C4DCB090795133F119AC612F8A557B8E4A1F67C4375FA3305AE6964FA17584C76E69F99B97BAA10E70D1F7B6E4EADC8C6F9EC8B0B28DA1791D484D8B2D34BBDD9CADC78337E7729D5C36F283E3F9194AFACF7B2DFDE0DBAB73C1FED263ADF4378E438BD4D4534B83DABB2F1FDE3BFC95D67A1CF6D60F09C01BF4B9B948B33FFA2FF0680E9AFF9" />
+				</NodeBitmaps>
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{B4307B61-1844-412C-B5A0-0C5D77D2AD28}">
+				<Data Description="Replaces the current indicator text with the specified one.">
+					<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+						<Parameter Name="Value" DefVarType="8" VarType="8" ValueType="6" ValueValue="Turn_On_All_Permissions_Mod" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{D993D251-65A9-4BED-A2EC-C2AC83739BAD}">
+				<Data GroupName="Select SO Admin Role" />
+				<Children>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Simulates one or several keypresses." Action="Keys">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="^aSO Administration[Tab]" />
+							</Parameters>
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageRolePermissions.panelMaincontent.textboxRole" />
+						</Data>
+					</Operation>
+				</Children>
+			</Operation>
+			<Operation Type="{D993D251-65A9-4BED-A2EC-C2AC83739BAD}">
+				<Data GroupName="Agency Application: Check All and Save if not already Checked" />
+				<Children>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Simulates a left-button single click in a window or control as specified (relative position, shift keys)." Action="Click">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+									<Values IsEnum="True">
+										<Value Type="1" Value="0" Text="skNoShift" />
+										<Value Type="1" Value="8192" Text="skShift" />
+										<Value Type="1" Value="32768" Text="skAlt" />
+										<Value Type="1" Value="16384" Text="skCtrl" />
+									</Values>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageRolePermissions.panelMaincontent.buttonAgency" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Simulates a left-button single click in a window or control as specified (relative position, shift keys)." Action="Click">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+									<Values IsEnum="True">
+										<Value Type="1" Value="0" Text="skNoShift" />
+										<Value Type="1" Value="8192" Text="skShift" />
+										<Value Type="1" Value="32768" Text="skAlt" />
+										<Value Type="1" Value="16384" Text="skCtrl" />
+									</Values>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageRolePermissions.panelMaincontent.panelGridContainer.buttonApplication" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Pauses the script execution until the specified Web page is downloaded or until the specified time limit elapses." Action="Wait">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="WaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+							</Parameters>
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageRolePermissions" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Performs a single click on the specified button." Action="ClickButton">
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageRolePermissions.panelMaincontent.panelGridContainer.buttonCheckAll" />
+						</Data>
+					</Operation>
+					<Operation Type="{EEDC9229-5F2A-4450-980E-7EB218C67090}">
+						<Data LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+							<Root Type="1" Operator="0">
+								<Left DefVarType="0" ParamType="{5EF65F78-D6E6-4C84-90CA-F464F32D7A1D}" Expression="Aliases.browser.pageRolePermissions.panelMaincontent.buttonSave.Enabled" />
+								<Right DefVarType="0" VarType="11" ValueType="7" ValueValue="True" />
+							</Root>
+						</Data>
+						<Children>
+							<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+								<Data Description="Performs a single click on the specified button." Action="ClickButton">
+									<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageRolePermissions.panelMaincontent.buttonSave" />
+								</Data>
+							</Operation>
+							<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+								<Data Description="Pauses the script execution until the specified Web page is downloaded or until the specified time limit elapses." Action="Wait">
+									<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+										<Parameter Name="WaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+									</Parameters>
+									<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageRolePermissions" />
+								</Data>
+							</Operation>
+							<Operation Type="{6F20B0D8-E0CF-47FF-A68B-3E3672DD0CB0}">
+								<Data VariableType="2" VariableName="GlobalCounter">
+									<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+										<Parameter Name="NewValue" DefVarType="0" VarType="3" ValueType="1" ValueValue="0" />
+									</Parameters>
+								</Data>
+							</Operation>
+							<Operation Type="{BE98E2BD-F90C-4DA4-8914-6D6246ED3CAC}">
+								<Data LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+									<Root Type="0" Operator="1">
+										<Expression Type="1" Operator="0">
+											<Left DefVarType="0" ParamType="{5EF65F78-D6E6-4C84-90CA-F464F32D7A1D}" Expression="Aliases.browser.pageRolePermissions.panelMaincontent.buttonSave.Enabled" />
+											<Right DefVarType="0" VarType="11" ValueType="7" ValueValue="True" />
+										</Expression>
+										<Expression Type="1" Operator="5">
+											<Left DefVarType="0" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="2" VariableName="GlobalCounter" />
+											<Right DefVarType="0" VarType="3" ValueType="1" ValueValue="60" />
+										</Expression>
+									</Root>
+								</Data>
+								<Children>
+									<Operation Type="{6F20B0D8-E0CF-47FF-A68B-3E3672DD0CB0}">
+										<Data VariableType="2" VariableName="GlobalCounter">
+											<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+												<Parameter Name="NewValue" DefVarType="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="Project.Variables.GlobalCounter +1" />
+											</Parameters>
+										</Data>
+									</Operation>
+								</Children>
+							</Operation>
+							<Operation Type="{EEDC9229-5F2A-4450-980E-7EB218C67090}">
+								<Data LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+									<Root Type="1" Operator="3">
+										<Left DefVarType="0" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="2" VariableName="GlobalCounter" />
+										<Right DefVarType="0" VarType="3" ValueType="1" ValueValue="60" />
+									</Root>
+								</Data>
+								<Children>
+									<Operation Type="{BFB3C418-1303-46B3-9B24-3624AB5EB529}">
+										<Data Description="Posts a warning to the test log." MessageType="2">
+											<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+												<Parameter Name="MessageText" DefVarType="12" VarType="8" ValueType="6" ValueValue="The Save button state did not change for more than 60 iterations of the while loop" />
+												<Parameter Name="AdditionalInformation" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+												<Parameter Name="Priority" DefVarType="12" DefValueType="1" DefValueValue="300" VarType="3" ValueType="1" ValueValue="300">
+													<Values IsEnum="True">
+														<Value Type="1" Value="100" Text="pmLowest" />
+														<Value Type="1" Value="200" Text="pmLower" />
+														<Value Type="1" Value="300" Text="pmNormal" />
+														<Value Type="1" Value="400" Text="pmHigher" />
+														<Value Type="1" Value="500" Text="pmHighest" />
+													</Values>
+												</Parameter>
+												<Parameter Name="Attrib" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+												<Parameter Name="Picture" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+												<Parameter Name="FolderId" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+											</Parameters>
+										</Data>
+									</Operation>
+								</Children>
+							</Operation>
+						</Children>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Pauses the script execution until the specified Web page is downloaded or until the specified time limit elapses." Action="Wait">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="WaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+							</Parameters>
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageRolePermissions" />
+						</Data>
+					</Operation>
+				</Children>
+			</Operation>
+			<Operation Type="{D993D251-65A9-4BED-A2EC-C2AC83739BAD}">
+				<Data GroupName="Agency Document: Check All and Save if not already Checked" />
+				<Children>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Simulates a left-button single click in a window or control as specified (relative position, shift keys)." Action="Click">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+									<Values IsEnum="True">
+										<Value Type="1" Value="0" Text="skNoShift" />
+										<Value Type="1" Value="8192" Text="skShift" />
+										<Value Type="1" Value="32768" Text="skAlt" />
+										<Value Type="1" Value="16384" Text="skCtrl" />
+									</Values>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageRolePermissions.panelMaincontent.buttonAgency" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Simulates a left-button single click in a window or control as specified (relative position, shift keys)." Action="Click">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+									<Values IsEnum="True">
+										<Value Type="1" Value="0" Text="skNoShift" />
+										<Value Type="1" Value="8192" Text="skShift" />
+										<Value Type="1" Value="32768" Text="skAlt" />
+										<Value Type="1" Value="16384" Text="skCtrl" />
+									</Values>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageRolePermissions.panelMaincontent.panelGridContainer.buttonDocument" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Pauses the script execution until the specified Web page is downloaded or until the specified time limit elapses." Action="Wait">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="WaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+							</Parameters>
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageRolePermissions" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Performs a single click on the specified button." Action="ClickButton">
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageRolePermissions.panelMaincontent.panelGridContainer.buttonCheckAll" />
+						</Data>
+					</Operation>
+					<Operation Type="{EEDC9229-5F2A-4450-980E-7EB218C67090}">
+						<Data LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+							<Root Type="1" Operator="0">
+								<Left DefVarType="0" ParamType="{5EF65F78-D6E6-4C84-90CA-F464F32D7A1D}" Expression="Aliases.browser.pageRolePermissions.panelMaincontent.buttonSave.Enabled" />
+								<Right DefVarType="0" VarType="11" ValueType="7" ValueValue="True" />
+							</Root>
+						</Data>
+						<Children>
+							<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+								<Data Description="Performs a single click on the specified button." Action="ClickButton">
+									<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageRolePermissions.panelMaincontent.buttonSave" />
+								</Data>
+							</Operation>
+							<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+								<Data Description="Pauses the script execution until the specified Web page is downloaded or until the specified time limit elapses." Action="Wait">
+									<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+										<Parameter Name="WaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+									</Parameters>
+									<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageRolePermissions" />
+								</Data>
+							</Operation>
+							<Operation Type="{6F20B0D8-E0CF-47FF-A68B-3E3672DD0CB0}">
+								<Data VariableType="2" VariableName="GlobalCounter">
+									<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+										<Parameter Name="NewValue" DefVarType="0" VarType="3" ValueType="1" ValueValue="0" />
+									</Parameters>
+								</Data>
+							</Operation>
+							<Operation Type="{BE98E2BD-F90C-4DA4-8914-6D6246ED3CAC}">
+								<Data LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+									<Root Type="0" Operator="1">
+										<Expression Type="1" Operator="0">
+											<Left DefVarType="0" ParamType="{5EF65F78-D6E6-4C84-90CA-F464F32D7A1D}" Expression="Aliases.browser.pageRolePermissions.panelMaincontent.buttonSave.Enabled" />
+											<Right DefVarType="0" VarType="11" ValueType="7" ValueValue="True" />
+										</Expression>
+										<Expression Type="1" Operator="5">
+											<Left DefVarType="0" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="2" VariableName="GlobalCounter" />
+											<Right DefVarType="0" VarType="3" ValueType="1" ValueValue="60" />
+										</Expression>
+									</Root>
+								</Data>
+								<Children>
+									<Operation Type="{6F20B0D8-E0CF-47FF-A68B-3E3672DD0CB0}">
+										<Data VariableType="2" VariableName="GlobalCounter">
+											<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+												<Parameter Name="NewValue" DefVarType="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="Project.Variables.GlobalCounter +1" />
+											</Parameters>
+										</Data>
+									</Operation>
+								</Children>
+							</Operation>
+							<Operation Type="{EEDC9229-5F2A-4450-980E-7EB218C67090}">
+								<Data LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+									<Root Type="1" Operator="3">
+										<Left DefVarType="0" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="2" VariableName="GlobalCounter" />
+										<Right DefVarType="0" VarType="3" ValueType="1" ValueValue="60" />
+									</Root>
+								</Data>
+								<Children>
+									<Operation Type="{BFB3C418-1303-46B3-9B24-3624AB5EB529}">
+										<Data Description="Posts a warning to the test log." MessageType="2">
+											<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+												<Parameter Name="MessageText" DefVarType="12" VarType="8" ValueType="6" ValueValue="The Save button state did not change for more than 60 iterations of the while loop" />
+												<Parameter Name="AdditionalInformation" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+												<Parameter Name="Priority" DefVarType="12" DefValueType="1" DefValueValue="300" VarType="3" ValueType="1" ValueValue="300">
+													<Values IsEnum="True">
+														<Value Type="1" Value="100" Text="pmLowest" />
+														<Value Type="1" Value="200" Text="pmLower" />
+														<Value Type="1" Value="300" Text="pmNormal" />
+														<Value Type="1" Value="400" Text="pmHigher" />
+														<Value Type="1" Value="500" Text="pmHighest" />
+													</Values>
+												</Parameter>
+												<Parameter Name="Attrib" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+												<Parameter Name="Picture" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+												<Parameter Name="FolderId" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+											</Parameters>
+										</Data>
+									</Operation>
+								</Children>
+							</Operation>
+						</Children>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Pauses the script execution until the specified Web page is downloaded or until the specified time limit elapses." Action="Wait">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="WaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+							</Parameters>
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageRolePermissions" />
+						</Data>
+					</Operation>
+				</Children>
+			</Operation>
+			<Operation Type="{D993D251-65A9-4BED-A2EC-C2AC83739BAD}">
+				<Data GroupName="System Application: Check All and Save if not already Checked" />
+				<Children>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Clicks the &apos;%n&apos; control." Action="Click">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+									<Values IsEnum="True">
+										<Value Type="1" Value="0" Text="skNoShift" />
+										<Value Type="1" Value="8192" Text="skShift" />
+										<Value Type="1" Value="32768" Text="skAlt" />
+										<Value Type="1" Value="16384" Text="skCtrl" />
+									</Values>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageRolePermissions.panelMaincontent.buttonSystem" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Simulates a left-button single click in a window or control as specified (relative position, shift keys)." Action="Click">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+									<Values IsEnum="True">
+										<Value Type="1" Value="0" Text="skNoShift" />
+										<Value Type="1" Value="8192" Text="skShift" />
+										<Value Type="1" Value="32768" Text="skAlt" />
+										<Value Type="1" Value="16384" Text="skCtrl" />
+									</Values>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageRolePermissions.panelMaincontent.panelColXs24GridContainer.buttonApplication" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Pauses the script execution until the specified Web page is downloaded or until the specified time limit elapses." Action="Wait">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="WaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+							</Parameters>
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageRolePermissions" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Performs a single click on the specified button." Action="ClickButton">
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageRolePermissions.panelMaincontent.panelColXs24GridContainer.buttonCheckAll" />
+						</Data>
+					</Operation>
+					<Operation Type="{EEDC9229-5F2A-4450-980E-7EB218C67090}">
+						<Data LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+							<Root Type="1" Operator="0">
+								<Left DefVarType="0" ParamType="{5EF65F78-D6E6-4C84-90CA-F464F32D7A1D}" Expression="Aliases.browser.pageRolePermissions.panelMaincontent.buttonSave.Enabled" />
+								<Right DefVarType="0" VarType="11" ValueType="7" ValueValue="True" />
+							</Root>
+						</Data>
+						<Children>
+							<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+								<Data Description="Performs a single click on the specified button." Action="ClickButton">
+									<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageRolePermissions.panelMaincontent.buttonSave" />
+								</Data>
+							</Operation>
+							<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+								<Data Description="Pauses the script execution until the specified Web page is downloaded or until the specified time limit elapses." Action="Wait">
+									<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+										<Parameter Name="WaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+									</Parameters>
+									<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageRolePermissions" />
+								</Data>
+							</Operation>
+							<Operation Type="{6F20B0D8-E0CF-47FF-A68B-3E3672DD0CB0}">
+								<Data VariableType="2" VariableName="GlobalCounter">
+									<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+										<Parameter Name="NewValue" DefVarType="0" VarType="3" ValueType="1" ValueValue="0" />
+									</Parameters>
+								</Data>
+							</Operation>
+							<Operation Type="{BE98E2BD-F90C-4DA4-8914-6D6246ED3CAC}">
+								<Data LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+									<Root Type="1" Operator="0">
+										<Left DefVarType="0" ParamType="{5EF65F78-D6E6-4C84-90CA-F464F32D7A1D}" Expression="Aliases.browser.pageRolePermissions.panelMaincontent.buttonSave.Enabled" />
+										<Right DefVarType="0" VarType="11" ValueType="7" ValueValue="True" />
+									</Root>
+								</Data>
+								<Children>
+									<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
+										<Data Description="Delays the test execution for the specified time period.">
+											<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+												<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="5000" />
+												<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
+											</Parameters>
+										</Data>
+									</Operation>
+									<Operation Type="{EEDC9229-5F2A-4450-980E-7EB218C67090}">
+										<Data LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+											<Root Type="1" Operator="3">
+												<Left DefVarType="0" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="2" VariableName="GlobalCounter" />
+												<Right DefVarType="0" VarType="3" ValueType="1" ValueValue="60" />
+											</Root>
+										</Data>
+										<Children>
+											<Operation Type="{BFB3C418-1303-46B3-9B24-3624AB5EB529}">
+												<Data Description="Posts a warning to the test log." MessageType="2">
+													<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+														<Parameter Name="MessageText" DefVarType="12" VarType="8" ValueType="6" ValueValue="The Save button state did not change for more than 60 iterations of the while loop" />
+														<Parameter Name="AdditionalInformation" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+														<Parameter Name="Priority" DefVarType="12" DefValueType="1" DefValueValue="300" VarType="3" ValueType="1" ValueValue="300">
+															<Values IsEnum="True">
+																<Value Type="1" Value="100" Text="pmLowest" />
+																<Value Type="1" Value="200" Text="pmLower" />
+																<Value Type="1" Value="300" Text="pmNormal" />
+																<Value Type="1" Value="400" Text="pmHigher" />
+																<Value Type="1" Value="500" Text="pmHighest" />
+															</Values>
+														</Parameter>
+														<Parameter Name="Attrib" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+														<Parameter Name="Picture" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+														<Parameter Name="FolderId" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+													</Parameters>
+												</Data>
+											</Operation>
+										</Children>
+									</Operation>
+								</Children>
+							</Operation>
+						</Children>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Pauses the script execution until the specified Web page is downloaded or until the specified time limit elapses." Action="Wait">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="WaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+							</Parameters>
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageRolePermissions" />
+						</Data>
+					</Operation>
+				</Children>
+			</Operation>
+			<Operation Type="{D993D251-65A9-4BED-A2EC-C2AC83739BAD}">
+				<Data GroupName="System Document: Check All and Save if not already Checked" />
+				<Children>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Clicks the &apos;%n&apos; control." Action="Click">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+									<Values IsEnum="True">
+										<Value Type="1" Value="0" Text="skNoShift" />
+										<Value Type="1" Value="8192" Text="skShift" />
+										<Value Type="1" Value="32768" Text="skAlt" />
+										<Value Type="1" Value="16384" Text="skCtrl" />
+									</Values>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageRolePermissions.panelMaincontent.buttonSystem" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Simulates a left-button single click in a window or control as specified (relative position, shift keys)." Action="Click">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+									<Values IsEnum="True">
+										<Value Type="1" Value="0" Text="skNoShift" />
+										<Value Type="1" Value="8192" Text="skShift" />
+										<Value Type="1" Value="32768" Text="skAlt" />
+										<Value Type="1" Value="16384" Text="skCtrl" />
+									</Values>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageRolePermissions.panelMaincontent.panelColXs24GridContainer.buttonDocument" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Pauses the script execution until the specified Web page is downloaded or until the specified time limit elapses." Action="Wait">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="WaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+							</Parameters>
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageRolePermissions" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Performs a single click on the specified button." Action="ClickButton">
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageRolePermissions.panelMaincontent.panelColXs24GridContainer.buttonCheckAll" />
+						</Data>
+					</Operation>
+					<Operation Type="{EEDC9229-5F2A-4450-980E-7EB218C67090}">
+						<Data LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+							<Root Type="1" Operator="0">
+								<Left DefVarType="0" ParamType="{5EF65F78-D6E6-4C84-90CA-F464F32D7A1D}" Expression="Aliases.browser.pageRolePermissions.panelMaincontent.buttonSave.Enabled" />
+								<Right DefVarType="0" VarType="11" ValueType="7" ValueValue="True" />
+							</Root>
+						</Data>
+						<Children>
+							<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+								<Data Description="Performs a single click on the specified button." Action="ClickButton">
+									<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageRolePermissions.panelMaincontent.buttonSave" />
+								</Data>
+							</Operation>
+							<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+								<Data Description="Pauses the script execution until the specified Web page is downloaded or until the specified time limit elapses." Action="Wait">
+									<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+										<Parameter Name="WaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+									</Parameters>
+									<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageRolePermissions" />
+								</Data>
+							</Operation>
+							<Operation Type="{6F20B0D8-E0CF-47FF-A68B-3E3672DD0CB0}">
+								<Data VariableType="2" VariableName="GlobalCounter">
+									<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+										<Parameter Name="NewValue" DefVarType="0" VarType="3" ValueType="1" ValueValue="0" />
+									</Parameters>
+								</Data>
+							</Operation>
+							<Operation Type="{BE98E2BD-F90C-4DA4-8914-6D6246ED3CAC}">
+								<Data LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+									<Root Type="1" Operator="0">
+										<Left DefVarType="0" ParamType="{5EF65F78-D6E6-4C84-90CA-F464F32D7A1D}" Expression="Aliases.browser.pageRolePermissions.panelMaincontent.panelContainerFluid.panelMain.buttonSave.Enabled" />
+										<Right DefVarType="0" VarType="11" ValueType="7" ValueValue="True" />
+									</Root>
+								</Data>
+								<Children>
+									<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
+										<Data Description="Delays the test execution for the specified time period.">
+											<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+												<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="5000" />
+												<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
+											</Parameters>
+										</Data>
+									</Operation>
+								</Children>
+							</Operation>
+						</Children>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Pauses the script execution until the specified Web page is downloaded or until the specified time limit elapses." Action="Wait">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="WaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+							</Parameters>
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageRolePermissions" />
+						</Data>
+					</Operation>
+				</Children>
+			</Operation>
+			<Operation Type="{D993D251-65A9-4BED-A2EC-C2AC83739BAD}">
+				<Data GroupName="Refresh page and pause to allow refresh to complete" />
+				<Children>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Simulates one or several keypresses." Action="Keys">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[F5]" />
+							</Parameters>
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageRolePermissions" />
+						</Data>
+					</Operation>
+					<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
+						<Data Description="Delays the test execution for the specified time period.">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="5000" />
+								<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
+							</Parameters>
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Pauses the script execution until the specified Web page is downloaded or until the specified time limit elapses." Action="Wait">
+							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
+								<Parameter Name="WaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+							</Parameters>
+							<ObjectSyntax LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" Code="Aliases.browser.pageRolePermissions" />
+						</Data>
+					</Operation>
+				</Children>
+			</Operation>
+			<Operation Type="{ACACF149-6FF2-4BCD-9ECE-A41603E445A1}">
+				<Data Description="Restores the previous indicator text." />
+			</Operation>
+		</Children>
+	</TestData>
+	<Parameters Key="{381AF842-BDF3-494A-8A6B-CDA81637537A}" />
+</Root>

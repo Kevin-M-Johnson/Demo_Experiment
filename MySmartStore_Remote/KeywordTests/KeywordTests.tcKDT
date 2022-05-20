@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<folder name="Configure_Browsers">
+			<child name="Configure_Edge" key="{44261070-852A-4DD3-8A62-A832832F82EA}" path="Configure_Edge.tcKDTest" />
+			<child name="Configure_FireFox" key="{3B7DF87A-C85C-4B07-9CD0-F3BE000BEE25}" path="Configure_FireFox.tcKDTest" />
+			<child name="Configure_Chrome" key="{48A1C4B4-242E-4A46-8330-E972FD35A76A}" path="Configure_Chrome.tcKDTest" />
+			<child name="Configure_IE" key="{9CA28A50-5789-47BA-BC83-83D3AFC94C5E}" path="Configure_IE.tcKDTest" />
+			<child name="Open_All_Browsers_No_Close" key="{8C2F2D7A-F63E-4859-AED1-7D2F377A38B3}" path="Open_All_Browsers_No_Close.tcKDTest" />
+			<child name="Open_Browsers_and_Delete_History" key="{EADCF903-E4E6-40FC-BC7E-41AF6A4E3BC8}" path="Open_Browsers_and_Delete_History.tcKDTest" />
+			<child name="Open_and_Close_All_Browsers" key="{8DDB2218-87BC-44C6-9EA0-A81298A17A63}" path="Open_and_Close_All_Browsers.tcKDTest" />
+			<child name="Open_Close_and_Terminate_Browsers" key="{12E1DE65-BF8A-4624-AD2B-451A4A837F4C}" path="Open_Close_and_Terminate_Browsers.tcKDTest" />
+			<child name="Dismiss_Pop_Up_Blocker" key="{A4013B0A-3DC9-4105-AB47-DC647E5C7F05}" path="Dismiss_Pop_Up_Blocker.tcKDTest" />
+		</folder>
+		<folder name="String_Parsing_Examples">
+			<child name="Parse_Number_From_String" key="{F5AE5E96-5588-471F-893A-EF9B81EE5BE2}" path="Parse_Number_From_String.tcKDTest" />
+		</folder>
+		<folder name="Common_Keyword_Tests">
+			<child name="Close_Open_Browsers" key="{42635CFB-157B-46F4-B1C2-DF0F7FE3E0DD}" path="Close_Open_Browsers.tcKDTest" />
+			<child name="GeneralEvents_OnStartTest" key="{1E9B2885-E27E-4208-B3DE-019009AD579F}" path="GeneralEvents_OnStartTest.tcKDTest" />
+			<child name="Initialize_Public_Safety_URL_All_Browsers" key="{9B510C74-9E0C-49CF-BD66-FD7BEFF3B92A}" path="Initialize_Public_Safety_URL_All_Browsers.tcKDTest" />
+			<child name="Initialize_Public_Safety_URL_Mod" key="{E2FA0631-D73C-40CC-9DA1-8B7710B52A69}" path="Initialize_Public_Safety_URL_Mod.tcKDTest" />
+			<child name="Kill_All_Browsers" key="{FDD0ACE2-9FF2-45E0-9659-171B527E5A8A}" path="Kill_All_Browsers.tcKDTest" />
+			<child name="Kill_Edge" key="{72B542E2-E954-4BA2-BF99-B48FE69B5C9D}" path="Kill_Edge.tcKDTest" />
+			<child name="Login_Invalid" key="{79C7FD57-AEDC-4B08-A992-4F27702D83CB}" path="Login_Invalid.tcKDTest" />
+			<child name="Login_Invalid_Mod" key="{DE38D713-80E1-4490-80F1-2C4111BF6E9D}" path="Login_Invalid_Mod.tcKDTest" />
+			<child name="Login_Loop_All_Browsers" key="{8D89BD73-0708-43CF-94AF-2F27C1C37B31}" path="Login_Loop_All_Browsers.tcKDTest" />
+			<child name="Login_New_World_Public_Safety" key="{3C082CE0-18A0-49E6-ACA8-98C3DA0F74CC}" path="Login_New_World_Public_Safety.tcKDTest" />
+			<child name="Logout_New_World_Public_Safety" key="{28F22114-CE6C-4D07-9FD4-E68A0BEE3041}" path="Logout_New_World_Public_Safety.tcKDTest" />
+			<child name="Navigation_Select_Home_Page_New_World_Image" key="{F6FBFE32-DB62-4966-AC19-D670BDC4E269}" path="Navigation_Select_Home_Page_New_World_Image.tcKDTest" />
+			<child name="Set_Admin_State" key="{9DCDBB47-23DE-4C81-ACD8-A13133A2295B}" path="Set_Admin_State.tcKDTest" />
+			<child name="Turn_Off_All_Permissions_Mod" key="{A258B50F-4A35-4ACE-82E7-2429175951F7}" path="Turn_Off_All_Permissions_Mod.tcKDTest" />
+			<child name="Turn_On_All_Permissions_Mod" key="{9557F1AE-96C1-4EE7-A24A-B5DAAADEEAAE}" path="Turn_On_All_Permissions_Mod.tcKDTest" />
+			<child name="Kill_Chrome" key="{772DBC81-21D6-490F-828A-020F1976A0E1}" path="Kill_Chrome.tcKDTest" />
+			<child name="Kill_Firefox" key="{F36C2148-8D68-4289-9252-96EE5BAFDDDA}" path="Kill_Firefox.tcKDTest" />
+			<child name="Kill_Internet_Explorer" key="{04462BEA-5980-4926-B93D-ED7759B444C8}" path="Kill_Internet_Explorer.tcKDTest" />
+			<child name="Kill_Opera" key="{23147D57-D30F-4DC4-B58D-2056F2968D22}" path="Kill_Opera.tcKDTest" />
+			<child name="Validate_Open_Login_Page" key="{767B0D6F-943F-47AF-828C-DDA9BEF8C9E3}" path="Validate_Open_Login_Page.tcKDTest" />
+			<child name="Close_Browser" key="{0F54D53A-AF4C-4CB6-8E33-218B9AD9D64A}" path="Close_Browser.tcKDTest" />
+			<child name="Common_Exit_Routine_Close_Browser" key="{99F5D6AA-B4ED-45E1-BBE1-34640FEF7362}" path="Common_Exit_Routine_Close_Browser.tcKDTest" />
+			<child name="Common_Exit_Routine_Logout" key="{A7DBE7B3-4AD5-4239-8DFF-11CC88CE81C3}" path="Common_Exit_Routine_Logout.tcKDTest" />
+			<child name="Get_TestExecute_Version_Information" key="{62875D83-62B2-4D2C-A368-FF7E1E3202DE}" path="Get_TestExecute_Version_Information.tcKDTest" />
+			<child name="Get_TestComplete_Version_Information" key="{EA3098B1-C2E9-45FA-8A9C-DC7DFF6FAE78}" path="Get_TestComplete_Version_Information.tcKDTest" />
+		</folder>
+		<folder name="Debug Smartbear Issues">
+			<child name="Simple_Browser_Open_and_Close_Firefox_Only" key="{50A8A8EB-C971-4172-9554-A714FAFD98DE}" path="Simple_Browser_Open_and_Close_Firefox_Only.tcKDTest" />
+			<child name="Simple_Browser_Open_and_Close_All_Installed_Browsers" key="{27522C9E-EA4D-4C68-ADFD-8CBEC581155A}" path="Simple_Browser_Open_and_Close_All_Installed_Browsers.tcKDTest" />
+		</folder>
+		<folder name="Apply Smartbear Patch">
+			<child name="Open_Windows_Explorer" key="{1A99EA47-C9AD-49D0-B844-9A8B08EC5F14}" path="Open_Windows_Explorer.tcKDTest" />
+		</folder>
+		<folder name="Zephyr_Demo">
+			<child name="Passing_Test" key="{4D97BAF2-969D-4FD4-B0B6-418DE756BB1D}" path="Passing_Test.tcKDTest" />
+			<child name="Warning_Test" key="{09B76FA9-993F-4D99-A332-433C727B3DBE}" path="Warning_Test.tcKDTest" />
+			<child name="Failing_Test" key="{AB05D692-6E12-4251-9FDB-FE910C61F936}" path="Failing_Test.tcKDTest" />
+		</folder>
+		<folder name="AUT_MySmartStore">
+			<child name="Navigate_MySmartStore_Logon" key="{9A960EFD-B510-4EB6-8E16-CC6C6983AC26}" path="Navigate_MySmartStore_Logon.tcKDTest" />
+			<child name="Register_User" key="{A10A1E20-2BB5-429E-9B49-AB3465BD06AE}" path="Register_User.tcKDTest" />
+			<child name="Logon_Unknown_User" key="{4C919F48-1368-4DEB-ABD0-497C1EC3CD43}" path="Logon_Unknown_User.tcKDTest" />
+			<child name="Logon_Known_User" key="{5E63325A-860C-4D53-89BE-70288F0FE424}" path="Logon_Known_User.tcKDTest" />
+			<child name="Logout" key="{B13D4FD4-4A88-4389-9152-1557E0A736ED}" path="Logout.tcKDTest" />
+			<child name="Enter_Known_Credentials" key="{6559C055-E2D7-443A-9653-E03FBAD51A7C}" path="Enter_Known_Credentials.tcKDTest" />
+		</folder>
+	</children>
+</Root>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="String_Utilitites" key="{F5143AFC-A3DD-413C-B18D-DC4D6B7A3DD7}" path="String_Utilitites.py" />
+		<child name="Kill_Process" key="{72D26AEB-CBAA-443C-9337-EA71FBC9244A}" path="Kill_Process.py" />
+		<child name="Open_All_Browsers" key="{51944603-E36B-4596-AF69-E4263EB19CD6}" path="Open_All_Browsers.py" />
+		<child name="Kill_All_Browsers" key="{74E51D35-9260-42EB-818E-D9B2CE1AAF5B}" path="Kill_All_Browsers.py" />
+	</children>
+</Root>
