@@ -9,7 +9,7 @@
 	<config language="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" />
 	<testItems key="{76EB4F89-3E97-4458-BED4-C7C33938C4D2}" version="14">
 		<children>
-			<testItem name="Configure Browsers" key="{A5B98542-EB33-4E09-9AB8-F5EEB1409841}" group="True" parallel="False" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+			<testItem name="Configure Browsers" key="{A5B98542-EB33-4E09-9AB8-F5EEB1409841}" group="True" parallel="False" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
 				<testParameters />
 				<children>
 					<testItem name="Configure_Chrome" key="{1A4C4CCD-508A-43D2-AC87-88F4302B79F0}" group="False" parallel="False" enabled="False" testMoniker="KDT\{48A1C4B4-242E-4A46-8330-E972FD35A76A}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
@@ -37,12 +37,12 @@
 						<environments activeCloud="CBT" />
 						<children />
 					</testItem>
-					<testItem name="Open_and_Close_All_Browsers" key="{FF310741-5FDE-4C93-B35F-14442268B8B7}" group="False" parallel="False" enabled="True" testMoniker="KDT\{8DDB2218-87BC-44C6-9EA0-A81298A17A63}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+					<testItem name="Open_and_Close_All_Browsers" key="{FF310741-5FDE-4C93-B35F-14442268B8B7}" group="False" parallel="False" enabled="False" testMoniker="KDT\{8DDB2218-87BC-44C6-9EA0-A81298A17A63}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
 						<testParameters />
 						<environments activeCloud="CBT" />
 						<children />
 					</testItem>
-					<testItem name="Open_Browsers_and_Delete_History" key="{500F9CDB-849A-48C6-8839-9253BFDCE1C2}" group="False" parallel="False" enabled="True" testMoniker="KDT\{EADCF903-E4E6-40FC-BC7E-41AF6A4E3BC8}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+					<testItem name="Open_Browsers_and_Delete_History" key="{500F9CDB-849A-48C6-8839-9253BFDCE1C2}" group="False" parallel="False" enabled="False" testMoniker="KDT\{EADCF903-E4E6-40FC-BC7E-41AF6A4E3BC8}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
 						<testParameters />
 						<environments activeCloud="CBT" />
 						<children />
@@ -94,7 +94,7 @@
 					</testItem>
 				</children>
 			</testItem>
-			<testItem name="TestComplete_Utility" key="{5A694155-12AA-441C-99D8-AFF97F3A0EB9}" group="True" parallel="False" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+			<testItem name="TestComplete_Utility" key="{5A694155-12AA-441C-99D8-AFF97F3A0EB9}" group="True" parallel="False" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
 				<testParameters />
 				<children>
 					<testItem name="Get_TestComplete_Version_Information" key="{AB8CE146-5BDB-409E-946C-57647D811DAF}" group="False" parallel="False" enabled="True" testMoniker="KDT\{EA3098B1-C2E9-45FA-8A9C-DC7DFF6FAE78}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
