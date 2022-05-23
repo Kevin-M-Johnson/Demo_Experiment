@@ -2,6 +2,8 @@
 
 One Paragraph of project description goes here
 
+This has been created as a collection of best practice examples. Hopefully, these simple samples can assist our clients with fleshing oout their CI/CD solutions.
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
