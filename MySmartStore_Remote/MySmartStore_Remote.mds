@@ -9,7 +9,7 @@
 	<config language="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" />
 	<testItems key="{76EB4F89-3E97-4458-BED4-C7C33938C4D2}" version="14">
 		<children>
-			<testItem name="Configure Browsers" key="{A5B98542-EB33-4E09-9AB8-F5EEB1409841}" group="True" parallel="False" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+			<testItem name="Configure Browsers" key="{A5B98542-EB33-4E09-9AB8-F5EEB1409841}" group="True" parallel="False" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
 				<testParameters />
 				<children>
 					<testItem name="Configure_Chrome" key="{1A4C4CCD-508A-43D2-AC87-88F4302B79F0}" group="False" parallel="False" enabled="False" testMoniker="KDT\{48A1C4B4-242E-4A46-8330-E972FD35A76A}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
@@ -129,10 +129,10 @@
 					</testItem>
 				</children>
 			</testItem>
-			<testItem name="MySmartStore" key="{5BDF6C3D-2FCF-4BBF-BC72-645D1E548A16}" group="True" parallel="False" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+			<testItem name="MySmartStore" key="{5BDF6C3D-2FCF-4BBF-BC72-645D1E548A16}" group="True" parallel="False" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
 				<testParameters />
 				<children>
-					<testItem name="Logon_Known_User" key="{8F0C84C2-B9C1-44B9-9A54-2F4B9A6306AF}" group="False" parallel="False" enabled="True" testMoniker="KDT\{5E63325A-860C-4D53-89BE-70288F0FE424}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+					<testItem name="Logon_Known_User" key="{8F0C84C2-B9C1-44B9-9A54-2F4B9A6306AF}" group="False" parallel="False" enabled="False" testMoniker="KDT\{5E63325A-860C-4D53-89BE-70288F0FE424}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
 						<testParameters />
 						<environments activeCloud="CBT" />
 						<children />

@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Root>
-	<Images />
+	<Images>
+		<Image File="130065703.png" Checksum="199176502" />
+	</Images>
 </Root>

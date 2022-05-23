@@ -1,9 +1,11 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
 	<children>
 		<folder name="Common_Keyword_Tests">
 			<child name="Get_TestExecute_Version_Information" key="{1CAABAC7-51CC-418B-AD56-831FDADDE920}" path="Get_TestExecute_Version_Information.tcKDTest" />
 			<child name="Get_TestComplete_Version_Information" key="{CCE6A390-232B-4530-8D55-3C5A7CF7DACD}" path="Get_TestComplete_Version_Information.tcKDTest" />
+			<child name="All_Browser_Loop" key="{A5526AAB-7266-4A08-8154-38272E43DCF5}" path="All_Browser_Loop.tcKDTest" />
+			<child name="Close_Browser" key="{F60C86FE-1A20-4100-81BB-F081A38C2279}" path="Close_Browser.tcKDTest" />
 		</folder>
 		<folder name="Simple_Demo">
 			<child name="Passing_Test" key="{EDD8F493-4A7E-4703-A627-4AE4EB1FEAEB}" path="Passing_Test.tcKDTest" />

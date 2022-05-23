@@ -26,6 +26,28 @@
 							</Property>
 						</Properties>
 					</Child>
+					<Child Name="browser" Key="{138AB5C3-7B46-466C-901A-A2D394328244}">
+						<TypeInfo Item0="{6FDC3188-4687-4377-AE1F-1531BF770BB4}" />
+						<Properties>
+							<Property Name="ObjectType">
+								<Value Value="Browser" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="BrowserWindow" Key="{6EDFC119-C3B7-4946-B028-0BDE68BBA3C3}">
+								<Image FileName="199176502" Left="0" Top="0" Right="1936" Bottom="1015" />
+								<TypeInfo Item0="{154F421F-08FB-4036-8C83-9FA9051312A4}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="BrowserWindow" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="0" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
+						</Children>
+					</Child>
 				</Children>
 			</Child>
 		</Children>
@@ -33,5 +55,8 @@
 	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
 		<Child Name="TestExecute" Owner="{3AE89E80-3678-4D5E-99EF-2E6291C337B7}" />
 		<Child Name="TestComplete" Owner="{A92DAA2B-65EC-4E31-9530-841A7DDE7D88}" />
+		<Child Name="browser" Owner="{138AB5C3-7B46-466C-901A-A2D394328244}">
+			<Child Name="BrowserWindow" Owner="{6EDFC119-C3B7-4946-B028-0BDE68BBA3C3}" />
+		</Child>
 	</LogicalNodes>
 </Root>
