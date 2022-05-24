@@ -59,7 +59,7 @@
 					<Operation Type="{D95A0934-BE78-45D6-B254-2098596D2A11}">
 						<Data Description="Opens the specified URL in a running instance of the specified browser." BrowserName="chrome">
 							<Parameters LangId="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}">
-								<Parameter Name="URL" DefVarType="8" VarType="8" ValueType="6" ValueValue="https://services.smartbear.com/samples/TestComplete14/smartstore/login?returnUrl=%2Fsamples%2FTestComplete14%2Fsmartstore%2F" />
+								<Parameter Name="URL" DefVarType="8" VarType="8" ValueType="6" ValueValue="https://bearstore-testsite.smartbear.com/" />
 								<Parameter Name="WaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
 							</Parameters>
 						</Data>

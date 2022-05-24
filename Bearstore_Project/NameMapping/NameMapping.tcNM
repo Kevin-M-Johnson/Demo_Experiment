@@ -230,7 +230,336 @@
 											</Selector>
 										</Selectors>
 									</Child>
+									<Child Name="fieldsetYourPersonalDetailsundef" Key="{CEADE792-178D-4DFF-BFC8-82CAB504554A}">
+										<Image FileName="523382823" Left="397" Top="364" Right="1127" Bottom="853" />
+										<Selectors>
+											<Selector>
+												<Value Value="//fieldset[contains(., &apos;Your Personal Details&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="radiobuttonMale" Key="{4ADC81A2-4DAA-4046-AAD3-EDB4E107C50A}">
+										<Image FileName="523382823" Left="587" Top="423" Right="600" Bottom="436" />
+										<TypeInfo Item0="{02D5D41B-43B3-4D38-A9F6-067D9F666297}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//input[@id=(//label[.=&apos;Male&apos;]/@for)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@type=&apos;radio&apos;][@value=&apos;M&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="#gender-male" />
+											</Selector>
+											<Selector>
+												<Value Value="//div/input[@name=&apos;Gender&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div/input" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textboxFirstName" Key="{A88D0410-5F99-4867-94A9-EBEFF485FA75}">
+										<Image FileName="796364143" Left="587" Top="467" Right="1127" Bottom="512" />
+										<TypeInfo Item0="{7E603939-7307-4257-8CCD-699A61DADB67}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//input[@id=(//label[.=&apos;First name&apos;]/@for)]" />
+											</Selector>
+											<Selector>
+												<Value Value="#FirstName" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@name=&apos;FirstName&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[2]/div/input" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textboxLastName" Key="{0D3C7CC9-4159-4F91-B305-68DBE5FEEF58}">
+										<Image FileName="-930751193" Left="587" Top="528" Right="1127" Bottom="573" />
+										<TypeInfo Item0="{7E603939-7307-4257-8CCD-699A61DADB67}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//input[@id=(//label[.=&apos;Last name&apos;]/@for)]" />
+											</Selector>
+											<Selector>
+												<Value Value="#LastName" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@name=&apos;LastName&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[3]/div/input" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="selectDateOfBirth" Key="{AABADFAB-D0B7-4390-B931-582561B8F22A}">
+										<Image FileName="-185454918" Left="587" Top="588" Right="762" Bottom="633" />
+										<TypeInfo Item0="{780EB4B3-A0AF-405C-9D05-B2A773D7937D}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//select[@id=(//label[.=&apos;Date of birth&apos;]/@for)]" />
+											</Selector>
+											<Selector>
+												<Value Value="#DateOfBirthDay" />
+											</Selector>
+											<Selector>
+												<Value Value="//div/select" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="selectDateofbirthmonth" Key="{21CE711F-D9E9-42C0-88BE-72908BE887D9}">
+										<Image FileName="1704891650" Left="769" Top="588" Right="944" Bottom="633" />
+										<TypeInfo Item0="{780EB4B3-A0AF-405C-9D05-B2A773D7937D}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#DateOfBirthMonth" />
+											</Selector>
+											<Selector>
+												<Value Value="//select[@name=&apos;DateOfBirthMonth&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[2]/select[contains(@class, &apos;date-part&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form[@id=&apos;register-form&apos;]//div[2]/select" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[2]/select" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="selectDateofbirthyear" Key="{10CA88AB-FC21-4E0B-A0BE-A9E2E916EEF9}">
+										<Image FileName="-2044277831" Left="952" Top="588" Right="1127" Bottom="633" />
+										<TypeInfo Item0="{780EB4B3-A0AF-405C-9D05-B2A773D7937D}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#DateOfBirthYear" />
+											</Selector>
+											<Selector>
+												<Value Value="//select[@name=&apos;DateOfBirthYear&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[3]/select[contains(@class, &apos;date-part&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form[@id=&apos;register-form&apos;]//div[3]/select" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[3]/select" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="emailinputEmail" Key="{D205B527-6004-460C-9BC7-4734363B3CF8}">
+										<Image FileName="-310475096" Left="587" Top="649" Right="1127" Bottom="694" />
+										<TypeInfo Item0="{AC4E6947-E765-46A2-816C-B919A77219C3}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//input[@id=(//label[.=&apos;Email&apos;]/@for)]" />
+											</Selector>
+											<Selector>
+												<Value Value="#Email" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@name=&apos;Email&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[5]/div/input" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textboxUsername" Key="{CECA7ADF-F09F-41B7-8130-73880531747A}">
+										<Image FileName="-1499009083" Left="587" Top="709" Right="1127" Bottom="754" />
+										<TypeInfo Item0="{7E603939-7307-4257-8CCD-699A61DADB67}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//input[@id=(//label[.=&apos;Username&apos;]/@for)]" />
+											</Selector>
+											<Selector>
+												<Value Value="#Username" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@name=&apos;Username&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[6]/div/input" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="panelYesIVeReadThe" Key="{B63601EE-ADD7-4C7C-9535-7DFB5040B15A}">
+										<Image FileName="-205294004" Left="397" Top="681" Right="1127" Bottom="726" />
+										<TypeInfo Item0="{AC4E6947-E765-46A2-816C-B919A77219C3}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//form//fieldset/div[7]//div[contains(@class, &apos;form-check&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="checkboxYesIVeReadThe" Key="{55BA6298-3EB1-44F8-97D0-6B4C979EB038}">
+										<Image FileName="-666549470" Left="397" Top="686" Right="410" Bottom="699" />
+										<TypeInfo Item0="{F8FF5E8D-C327-4139-9691-2B9D0360FEEC}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//input[@id=(//label[contains(.,&quot;Yes I&apos;ve read the privacy terms and agree that my data given by me can be stored electronically. My data will thereby only be used to process my inquiry.&quot;)]/@for)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="fieldsetYourPasswordundefined" Key="{6A6E06FA-73DA-414E-82B1-FCBFA62697A9}">
+										<Image FileName="-2120776141" Left="397" Top="785" Right="1127" Bottom="949" />
+										<Selectors>
+											<Selector>
+												<Value Value="//fieldset[contains(., &apos;Your Password&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="passwordboxPassword" Key="{1838F5AD-209E-4B07-BCCC-6BC2B2FF64BE}">
+										<Image FileName="-2120776141" Left="587" Top="828" Right="1127" Bottom="873" />
+										<TypeInfo Item0="{7E603939-7307-4257-8CCD-699A61DADB67}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//input[@id=(//label[.=&apos;Password&apos;]/@for)]" />
+											</Selector>
+											<Selector>
+												<Value Value="#Password" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@name=&apos;Password&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form/div//fieldset[2]//input" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="passwordboxConfirmPassword" Key="{75A2ECBF-B1D4-46F7-88E7-20AABC0B7E25}">
+										<Image FileName="-1723586121" Left="587" Top="889" Right="1127" Bottom="934" />
+										<TypeInfo Item0="{7E603939-7307-4257-8CCD-699A61DADB67}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//input[@id=(//label[.=&apos;Confirm password&apos;]/@for)]" />
+											</Selector>
+											<Selector>
+												<Value Value="#ConfirmPassword" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@name=&apos;ConfirmPassword&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form/div//fieldset[2]/div[2]//input" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="fieldsetCompanyDetailsundefined" Key="{CFB5076E-B221-4025-93C4-5C24A8858F52}">
+										<Image FileName="-367115622" Left="397" Top="781" Right="1127" Bottom="885" />
+										<Selectors>
+											<Selector>
+												<Value Value="//fieldset[contains(., &apos;Company Details&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textboxCompanyName" Key="{5D400E9B-6A34-4BF9-A799-4F28B37939FD}">
+										<Image FileName="-367115622" Left="587" Top="824" Right="1127" Bottom="869" />
+										<TypeInfo Item0="{7E603939-7307-4257-8CCD-699A61DADB67}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//input[@id=(//label[.=&apos;Company name&apos;]/@for)]" />
+											</Selector>
+											<Selector>
+												<Value Value="#Company" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@name=&apos;Company&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form/div//fieldset[3]//input" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="fieldsetOptionsundefined" Key="{6ECD45B8-95CD-481F-BE24-C1E8C3457822}">
+										<Image FileName="1506981512" Left="397" Top="817" Right="1127" Bottom="899" />
+										<Selectors>
+											<Selector>
+												<Value Value="//fieldset[contains(., &apos;Options&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="labelIWouldLikeToSubscribeToThe" Key="{FA7FCF0F-0093-44E1-B21F-21E3B564C3C0}">
+										<Image FileName="1506981512" Left="417" Top="860" Right="1054" Bottom="883" />
+										<TypeInfo Item0="{AC4E6947-E765-46A2-816C-B919A77219C3}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//label[contains(text(), &apos;I would like to subscribe to the newsletter. I agree to the&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//fieldset[4]//label[contains(@class, &apos;form-check-label&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form[@id=&apos;register-form&apos;]//fieldset[4]//label" />
+											</Selector>
+											<Selector>
+												<Value Value="//fieldset[4]//label" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonRegisterButton" Key="{2A3649F4-6BA8-4876-92D1-3E7FCEF47F06}">
+										<Image FileName="57822636" Left="397" Top="669" Right="506" Bottom="720" />
+										<TypeInfo Item0="{B3127FBC-EC02-47D8-9924-953F644E29A0}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#register-button" />
+											</Selector>
+											<Selector>
+												<Value Value="//button[@name=&apos;register-button&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//button[contains(text(), &apos;Register&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form//a//button[@type=&apos;submit&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form//a//button[contains(@class, &apos;btn&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//a[contains(@href, &apos;privacyinfo&apos;)]//button" />
+											</Selector>
+											<Selector>
+												<Value Value="//form//a//button" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkContinue" Key="{4C6557B7-9567-4C7C-AC07-57DB3E9CA828}">
+										<Image FileName="-2033588328" Left="397" Top="417" Right="493" Bottom="462" />
+										<TypeInfo Item0="{AC4E6947-E765-46A2-816C-B919A77219C3}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[contains(text(), &apos;Continue&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-wrapper&apos;]/section//a[contains(@class, &apos;btn&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-center&apos;]//a" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-wrapper&apos;]/section//a" />
+											</Selector>
+										</Selectors>
+									</Child>
 								</Children>
+							</Child>
+							<Child Name="wndChrome_WidgetWin_1" Key="{20E5899A-A039-4EAD-A4A4-D638B8B71D1F}">
+								<Image FileName="-26485597" Left="0" Top="0" Right="334" Bottom="314" />
+								<TypeInfo Item0="{5DAD8247-911E-462F-9730-00104539CC29}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Chrome_WidgetWin_1" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Save password?" />
+									</Property>
+								</Properties>
 							</Child>
 						</Children>
 					</Child>
@@ -259,9 +588,34 @@
 				<Child Name="sectionContent" Owner="{F902DE8D-46D8-4936-8EE4-4569FB6D989E}">
 					<Child Name="formRegisterForm" Owner="{8444EB78-1519-4C8D-9E9A-06CE64321044}">
 						<Child Name="textnodeRegister" Owner="{F9B3CD7E-88E6-457F-86C0-C9DE39E17D81}" />
+						<Child Name="fieldsetYourPersonalDetailsundef" Owner="{CEADE792-178D-4DFF-BFC8-82CAB504554A}">
+							<Child Name="radiobuttonMale" Owner="{4ADC81A2-4DAA-4046-AAD3-EDB4E107C50A}" />
+							<Child Name="textboxFirstName" Owner="{A88D0410-5F99-4867-94A9-EBEFF485FA75}" />
+							<Child Name="textboxLastName" Owner="{0D3C7CC9-4159-4F91-B305-68DBE5FEEF58}" />
+							<Child Name="selectDateOfBirth" Owner="{AABADFAB-D0B7-4390-B931-582561B8F22A}" />
+							<Child Name="selectDateofbirthmonth" Owner="{21CE711F-D9E9-42C0-88BE-72908BE887D9}" />
+							<Child Name="selectDateofbirthyear" Owner="{10CA88AB-FC21-4E0B-A0BE-A9E2E916EEF9}" />
+							<Child Name="emailinputEmail" Owner="{D205B527-6004-460C-9BC7-4734363B3CF8}" />
+							<Child Name="textboxUsername" Owner="{CECA7ADF-F09F-41B7-8130-73880531747A}" />
+							<Child Name="panelYesIVeReadThe" Owner="{B63601EE-ADD7-4C7C-9535-7DFB5040B15A}" />
+							<Child Name="checkboxYesIVeReadThe" Owner="{55BA6298-3EB1-44F8-97D0-6B4C979EB038}" />
+						</Child>
+						<Child Name="fieldsetYourPasswordundefined" Owner="{6A6E06FA-73DA-414E-82B1-FCBFA62697A9}">
+							<Child Name="passwordboxPassword" Owner="{1838F5AD-209E-4B07-BCCC-6BC2B2FF64BE}" />
+							<Child Name="passwordboxConfirmPassword" Owner="{75A2ECBF-B1D4-46F7-88E7-20AABC0B7E25}" />
+						</Child>
+						<Child Name="fieldsetCompanyDetailsundefined" Owner="{CFB5076E-B221-4025-93C4-5C24A8858F52}">
+							<Child Name="textboxCompanyName" Owner="{5D400E9B-6A34-4BF9-A799-4F28B37939FD}" />
+						</Child>
+						<Child Name="fieldsetOptionsundefined" Owner="{6ECD45B8-95CD-481F-BE24-C1E8C3457822}">
+							<Child Name="labelIWouldLikeToSubscribeToThe" Owner="{FA7FCF0F-0093-44E1-B21F-21E3B564C3C0}" />
+						</Child>
+						<Child Name="buttonRegisterButton" Owner="{2A3649F4-6BA8-4876-92D1-3E7FCEF47F06}" />
 					</Child>
+					<Child Name="linkContinue" Owner="{4C6557B7-9567-4C7C-AC07-57DB3E9CA828}" />
 				</Child>
 			</Child>
+			<Child Name="wndChrome_WidgetWin_1" Owner="{20E5899A-A039-4EAD-A4A4-D638B8B71D1F}" />
 		</Child>
 	</LogicalNodes>
 </Root>

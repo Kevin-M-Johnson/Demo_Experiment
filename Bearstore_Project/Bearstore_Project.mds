@@ -7,7 +7,18 @@
 	</children>
 	<config language="{90F89436-9452-4F95-9882-6B5210079F13}" />
 	<testItems key="{C7F8E6D0-A426-4220-AD32-0FC613A29A31}" version="14">
-		<children />
+		<children>
+			<testItem name="Bearstore" key="{FBA6D476-6894-4861-8FCA-A9020C2173E5}" group="True" parallel="False" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<children>
+					<testItem name="Login_Bearstore" key="{8D863A7B-89C4-4F70-A3A5-90F2FACCE720}" group="False" parallel="False" enabled="True" testMoniker="KDT\{9980F46D-E04B-4815-AE83-719DD8366521}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+						<testParameters />
+						<environments activeCloud="CBT" />
+						<children />
+					</testItem>
+				</children>
+			</testItem>
+		</children>
 	</testItems>
 	<variables key="{40586182-D3C1-45FD-ADC9-5E0B7BF7D3D0}" />
 	<settings key="{C1B6CA18-DBC0-40E7-B32B-346E25E64509}">
