@@ -3,11 +3,13 @@
 	<children>
 		<child name="MySmartStore_Remote" key="{159EF809-9BEF-4A9E-8D90-E0E9FF5D42C3}" path="MySmartStore_Remote\MySmartStore_Remote.mds" />
 		<child name="Never_Fail_Project" key="{7639FB45-B860-4A66-8D04-2769903F88E0}" path="Never_Fail_Project\Never_Fail_Project.mds" />
+		<child name="Bearstore_Project" key="{4A3134A5-FDA5-441A-B02E-679CD85E53D9}" path="Bearstore_Project\Bearstore_Project.mds" />
 	</children>
 	<testItems key="{13490EF3-77D9-479B-9B55-85544DCA47AD}">
 		<children>
 			<testItem key="{159EF809-9BEF-4A9E-8D90-E0E9FF5D42C3}" enabled="True" timeout="0" stopOnError="False" description="" />
 			<testItem key="{7639FB45-B860-4A66-8D04-2769903F88E0}" enabled="True" timeout="0" stopOnError="False" description="" />
+			<testItem key="{4A3134A5-FDA5-441A-B02E-679CD85E53D9}" enabled="True" timeout="0" stopOnError="True" description="" />
 		</children>
 	</testItems>
 	<variables key="{A77D514E-ECED-41F2-BE9E-5CE08E057F1D}" />
