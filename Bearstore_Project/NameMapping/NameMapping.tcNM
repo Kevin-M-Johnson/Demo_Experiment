@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{743F4835-DE99-4DD1-BFD7-7560EEE0A919}">
+				<TypeInfo Item0="{745E890A-BE6E-41F5-A635-5CF85839D600}" />
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="browser" Key="{DF4FA753-2D35-4996-9B9E-627141237D1E}">
+						<TypeInfo Item0="{9E69F6B1-1BFF-47DE-9F20-F20334D18EFC}" />
+						<Properties>
+							<Property Name="ObjectType">
+								<Value Value="Browser" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="BrowserWindow" Key="{CCA28A3E-3B53-4CD1-8CE3-7CAC5751EC42}">
+								<Image FileName="-941899876" Left="0" Top="0" Right="1936" Bottom="1015" />
+								<TypeInfo Item0="{560EE155-86A7-4769-B9D2-8BAA76B39886}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="BrowserWindow" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="0" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="pageShop" Key="{6F8C839B-386D-4CCA-A63D-7F7DD4F7E0BB}">
+								<Image FileName="977327036" Left="0" Top="103" Right="1920" Bottom="999" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://bearstore-testsite.smartbear.com/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="header" Key="{9383BA59-C59E-485A-8AF3-406F25F0D32D}">
+										<Image FileName="977327036" Left="0" Top="103" Right="1903" Bottom="282" />
+										<Selectors>
+											<Selector>
+												<Value Value="#header" />
+											</Selector>
+											<Selector>
+												<Value Value="//header[contains(., &apos;USD&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="navUsd" Key="{1A14A158-1E43-4710-AF0A-F4285699526A}">
+										<Image FileName="977327036" Left="397" Top="103" Right="1507" Bottom="155" />
+										<Selectors>
+											<Selector>
+												<Value Value="//nav[contains(., &apos;USD&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div/nav[contains(@class, &apos;navbar&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkLogIn" Key="{B5A15AEF-3CEC-48C8-B986-8C98D83B984C}">
+										<Image FileName="977327036" Left="1420" Top="103" Right="1507" Bottom="155" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[contains(., &apos;Log in&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header//nav/nav[@id=&apos;menubar-my-account&apos;]//a[contains(@class, &apos;menubar-link&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//nav[@id=&apos;menubar-my-account&apos;]//a" />
+											</Selector>
+											<Selector>
+												<Value Value="//header//nav/nav[@id=&apos;menubar-my-account&apos;]//a" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeLogIn" Key="{051828C4-26E4-4606-8E0D-4B91A2C11235}">
+										<Image FileName="977327036" Left="1448" Top="120" Right="1496" Bottom="137" />
+										<TypeInfo Item0="{AC4E6947-E765-46A2-816C-B919A77219C3}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//span[.=&apos;Log in&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//nav[@id=&apos;menubar-my-account&apos;]//span" />
+											</Selector>
+											<Selector>
+												<Value Value="//header//nav/nav[@id=&apos;menubar-my-account&apos;]//a/span" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageLogin" Key="{A4D27600-8FB5-4174-8173-074D18F32BAC}">
+								<Image FileName="977327036" Left="0" Top="103" Right="1920" Bottom="999" />
+								<TypeInfo Item0="{35E13B56-FD0C-42E5-A467-2E94516F4952}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://bearstore-testsite.smartbear.com/login*" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="sectionContent" Key="{13C6032B-2ED8-407F-BF47-6649DB05B7F9}">
+										<Image FileName="1227457987" Left="382" Top="306" Right="1522" Bottom="743" />
+										<Selectors>
+											<Selector>
+												<Value Value="#content" />
+											</Selector>
+											<Selector>
+												<Value Value="//section[contains(., &apos;Sign In&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//section[contains(@class, &apos;container&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-wrapper&apos;]/section" />
+											</Selector>
+											<Selector>
+												<Value Value="//section" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkRegister" Key="{53575918-29B3-48B1-834A-FE7873923DA1}">
+										<Image FileName="1227457987" Left="397" Top="568" Right="506" Bottom="619" />
+										<TypeInfo Item0="{AC4E6947-E765-46A2-816C-B919A77219C3}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[contains(text(), &apos;Register&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-wrapper&apos;]/section//a[contains(@class, &apos;btn&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-center&apos;]//div/div/div/a" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-wrapper&apos;]//div[2]/div/div/div/a" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageShopRegister" Key="{32D2B972-58F8-47EB-8471-E46AAAAC50AA}">
+								<Image FileName="-1934862836" Left="8" Top="111" Right="1928" Bottom="1007" />
+								<TypeInfo Item0="{3DB256DF-0E9C-4040-8D99-98151B5DDB64}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://bearstore-testsite.smartbear.com/register*" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="sectionContent" Key="{F902DE8D-46D8-4936-8EE4-4569FB6D989E}">
+										<Image FileName="-1934862836" Left="390" Top="314" Right="1530" Bottom="1444" />
+										<TypeInfo Item0="{AFF674EC-820F-454C-860F-5F75FE77348A}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#content" />
+											</Selector>
+											<Selector>
+												<Value Value="//section[contains(., &apos;Register&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//section[contains(@class, &apos;container&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-wrapper&apos;]/section" />
+											</Selector>
+											<Selector>
+												<Value Value="//section" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="formRegisterForm" Key="{8444EB78-1519-4C8D-9E9A-06CE64321044}">
+										<Image FileName="-1934862836" Left="405" Top="314" Right="1515" Bottom="1444" />
+										<TypeInfo Item0="{AFF674EC-820F-454C-860F-5F75FE77348A}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#register-form" />
+											</Selector>
+											<Selector>
+												<Value Value="//form[contains(., &apos;Register&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form[contains(@action, &apos;register&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form[contains(@class, &apos;form-horizontal&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-center&apos;]/form" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-wrapper&apos;]/section/div/div/form" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeRegister" Key="{F9B3CD7E-88E6-457F-86C0-C9DE39E17D81}">
+										<Image FileName="-1934862836" Left="405" Top="314" Right="1515" Bottom="348" />
+										<TypeInfo Item0="{AFF674EC-820F-454C-860F-5F75FE77348A}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//h1[.=&apos;Register&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//h1[contains(@class, &apos;h3&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form[@id=&apos;register-form&apos;]//h1" />
+											</Selector>
+											<Selector>
+												<Value Value="//h1" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="browser" Owner="{DF4FA753-2D35-4996-9B9E-627141237D1E}">
+			<Child Name="BrowserWindow" Owner="{CCA28A3E-3B53-4CD1-8CE3-7CAC5751EC42}" />
+			<Child Name="pageShop" Owner="{6F8C839B-386D-4CCA-A63D-7F7DD4F7E0BB}">
+				<Child Name="header" Owner="{9383BA59-C59E-485A-8AF3-406F25F0D32D}">
+					<Child Name="navUsd" Owner="{1A14A158-1E43-4710-AF0A-F4285699526A}">
+						<Child Name="linkLogIn" Owner="{B5A15AEF-3CEC-48C8-B986-8C98D83B984C}">
+							<Child Name="textnodeLogIn" Owner="{051828C4-26E4-4606-8E0D-4B91A2C11235}" />
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="pageLogin" Owner="{A4D27600-8FB5-4174-8173-074D18F32BAC}">
+				<Child Name="sectionContent" Owner="{13C6032B-2ED8-407F-BF47-6649DB05B7F9}">
+					<Child Name="linkRegister" Owner="{53575918-29B3-48B1-834A-FE7873923DA1}" />
+				</Child>
+			</Child>
+			<Child Name="pageShopRegister" Owner="{32D2B972-58F8-47EB-8471-E46AAAAC50AA}">
+				<Child Name="sectionContent" Owner="{F902DE8D-46D8-4936-8EE4-4569FB6D989E}">
+					<Child Name="formRegisterForm" Owner="{8444EB78-1519-4C8D-9E9A-06CE64321044}">
+						<Child Name="textnodeRegister" Owner="{F9B3CD7E-88E6-457F-86C0-C9DE39E17D81}" />
+					</Child>
+				</Child>
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>
