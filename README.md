@@ -2,6 +2,8 @@
 
 One Paragraph of project description goes here
 
+Simple Sample
+
 This has been created as a collection of best practice examples. Hopefully, these simple samples can assist our clients with fleshing out their CI/CD solutions.
 
 ## Getting Started
